@@ -15,9 +15,7 @@ Welcome to my Solidity Projects Portfolio! This repository showcases a curated s
 ├── 📁 Audited_Projects
 │   ├── 📁 Project1_Audit
 │   │   ├── 📜 Audit_Report.md    # Detailed audit report
-│   │   ├── 📜 Exploits/          # Proof-of-concept exploits
-│   │   ├── 📜 Contract.sol       # Audited contract code
-│   │   └── 📜 Tests/             # Exploit and security tests
+
 ├── 📁 Developed_Projects
 │   ├── 📁 Project1_Name
 │   │   ├── 📜 README.md          # Project-specific details
